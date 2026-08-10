@@ -12,7 +12,7 @@
 |-----|----------|
 | Họ và tên | Lê Hoàng Việt |
 | Mã học viên | 2A202601543 |
-| Repo | https://github.com/lehoangviet/DAY12-2A202601543-LeHoangViet |
+| Repo | https://github.com/vietlhwork-arch/K3-Day12-Cloud-Services-And-Deployment |
 
 ## Service
 
