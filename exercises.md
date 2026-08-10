@@ -6,7 +6,7 @@
 > Cách trả lời: điền câu trả lời chi tiết cho từng câu hỏi phía dưới.
 > `grade.py` đếm số câu đã trả lời (15 điểm cho 10 câu).
 >
-> Họ và tên: Lê Hoàng Việt  Mã học viên: 2A202600280
+> Họ và tên: Lê Hoàng Việt  Mã học viên: 2A202601543
 
 ---
 
